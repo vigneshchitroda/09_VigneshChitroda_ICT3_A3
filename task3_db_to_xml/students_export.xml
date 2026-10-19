@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <roll_no>101</roll_no>
+    <name>Vignesh</name>
+    <email>vignesh@example.com</email>
+    <course>MCA</course>
+    <marks>95</marks>
+    <created_at>2026-10-19 17:26:59</created_at>
+  </student>
+  <student>
+    <roll_no>102</roll_no>
+    <name>Sahil</name>
+    <email>sahil@example.com</email>
+    <course>MCA</course>
+    <marks>91</marks>
+    <created_at>2026-10-19 17:26:59</created_at>
+  </student>
+  <student>
+    <roll_no>103</roll_no>
+    <name>Kais</name>
+    <email>kais@example.com</email>
+    <course>MCA</course>
+    <marks>88</marks>
+    <created_at>2026-10-19 17:26:59</created_at>
+  </student>
+  <student>
+    <roll_no>104</roll_no>
+    <name>Harsh</name>
+    <email>harsh@example.com</email>
+    <course>MCA</course>
+    <marks>93</marks>
+    <created_at>2026-10-19 17:26:59</created_at>
+  </student>
+  <student>
+    <roll_no>105</roll_no>
+    <name>Manan</name>
+    <email>manan@example.com</email>
+    <course>MCA</course>
+    <marks>89</marks>
+    <created_at>2026-10-19 17:26:59</created_at>
+  </student>
+</students>
